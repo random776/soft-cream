@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+  font-family: "游ゴシック Light", sans-serif;
+  font-size: 100%;
+  margin: 25px;
+  background-color: rgb(250, 255, 225);
+}
+
+.soft {
+  margin: 40px;
+}
